@@ -1,0 +1,16 @@
+{
+  "name": "addUnextPoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "action.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^1.2.1",
+    "nodemailer": "^4.4.1",
+    "puppeteer": "^0.13.0"
+  }
+}
